@@ -6,7 +6,7 @@
 leyendo las frases que el usuario teclea y las guarde en un 
 fichero de texto llamado registroUsuario.txt. Terminara cuando
  la frase introducida sea Finalizar, esa frase no puede guardarse
-  en el fichero..                                  |
+  en el fichero.                                  |
 | ----------------------------------------------------------------*/
 
 //Bibliotecas
